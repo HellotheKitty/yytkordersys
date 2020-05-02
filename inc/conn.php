@@ -24,7 +24,8 @@ function dw0($dw) {
 }    
 
 function base_encode($str) {  
-        $src  = array("/","+","=");  
+        $src  = array("/","+","=");
+        
         $dist = array("_a","_b","_c");  
         $old  = base64_encode($str);  
         $new  = str_replace($src,$dist,$old);  

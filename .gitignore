@@ -1,4 +1,6 @@
 /vendor
 /node_modules
 .env
-inc
+/inc/conn.php
+/inc/connection.php
+/inc/conn.php.bak
