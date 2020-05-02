@@ -1,0 +1,173 @@
+﻿
+/* page开始 */
+.mpageMain{ padding:40px 0; width:900px; text-align:center;}
+.mpageMain.w1100{ width:1100px;}
+.mpageMain a{ display:inline-block; margin-left:8px; padding:0 12px; height:30px; line-height:30px; text-align:center; background:#f6f6f6; border:1px solid #d8d8d8; font-size:16px; color:#666;}
+.mpageMain a.current{ border:1px solid #fff; background:#fff; font-weight:700; color:#ff9900;}
+.mpageMain a.go{ font-family:\5FAE\8F6F\96C5\9ED1; font-size:12px;}
+.mpageTotal{ display:inline-block; margin:0 15px 0 7px; height:30px; line-height:30px;}
+.mwritePage{ display:inline-block; height:30px; line-height:30px;}
+.pagetext{ display:inline-block; padding:6px 0; height:18px; line-height:18px; width:37px; border:1px solid #d8d8d8; background:#fff; text-align:center;}
+.mpageMain .rukushenqingBut{display:inline-block; margin-top:20px; padding:0 15px; height:33px; line-height:33px; background:#ff9900; color:#fff; font-size:16px; font-family:\5FAE\8F6F\96C5\9ED1; border:none;}
+/* page结束 */
+
+/* 翻页条开始 */
+.pagination{ float:right; width:900px; text-align:center;}
+.pagination a:hover{background:#ffcc00;}
+.pagination.w1100{ width:1100px;}
+.pagination.hasborder{ margin:0 10px; padding-top:30px; border-top:1px dashed #ebebeb;}
+.pagination a, .pginBarSpan{ 
+	display:inline-block; 
+	margin-left:8px; 
+	padding:0 12px; 
+	height:30px; 
+	line-height:30px; 
+	text-align:center; 
+/*	background:#f6f6f6; */
+	/*border:1px solid #d8d8d8; */
+	font-size:16px; color:#666;}
+.pagination a.current{ border:1px solid #fff; background:#fff; font-weight:700; color:#ff9900;}
+.pagination .rukushenqingBut{display:inline-block; margin-top:20px; padding:0 15px; height:33px; line-height:33px; background:#ff9900; color:#fff; font-size:16px; font-family:\5FAE\8F6F\96C5\9ED1; border:none;}
+.pginBarSpanCurrent{ display:inline-block; margin-left:8px; padding:0 10px 0 10px; height:30px; line-height:30px; text-align:center; font-size:16px; background:#fff; font-weight:700; color:#ff9900;}
+.pginBarTotal{ display:inline-block; margin:0 15px 0 7px; height:30px; line-height:30px;}
+.pginBarChar{ display:inline-block; height:30px; line-height:30px;}
+
+.pginBarText{ 
+	display:inline-block; 
+/*	padding:6px 0; */
+	height:25px; 
+	line-height:25px; 
+	width:47px; 
+	border:1px solid #d8d8d8; 
+	background:#fff; 
+	text-align:center;
+	border-radius: 3px;
+}
+.pginBarGo{ 
+	display:inline-block; 
+	margin-left:8px; 
+/*	padding:0 12px; */
+	height:25px; 
+	line-height:25px; 
+	text-align:center; 
+	border:1px solid #d8d8d8; 
+	font-family:\5FAE\8F6F\96C5\9ED1; 
+	font-size:12px; 
+	width: 47px;
+	border-radius: 3px;
+	background:#f6f6f6;
+	cursor:default
+}
+.pginBarGoHover{ 
+	display:inline-block;
+	 margin-left:8px; 
+	height:25px; 
+	line-height:25px; 
+	 text-align:center; 
+	 border:1px solid #d8d8d8; 
+	 font-family:\5FAE\8F6F\96C5\9ED1; 
+	 font-size:12px; 
+	 width: 47px;
+	 background:#ffcc00;
+	 cursor:pointer;
+	 border-radius: 3px;
+	}
+/* 翻页条结束 */
+
+/* 小翻页条开始 */
+.paginationSmall{ float:right; height:28px;}
+.paginationSmall p{ float:left; margin-right:10px; height:28px; line-height:28px;}
+.paginationSmall p span{ padding:0 15px; font-size:14px; color:#ff6600; font-family:\5FAE\8F6F\96C5\9ED1}
+.paginationSmall span.pageYm{ float:left; margin:5px 5px 0 5px; padding:0 5px; height:15px; line-height:15px; text-align:center; border:1px solid #d8d8d8; background:#f6f6f6;}
+.paginationSmall .pageYm2{ float:left; padding:0 5px; height:28px; line-height:28px;}
+.paginationSmall .pageYm2 span{ color:#ff9900}
+.pginBarSmall{ float:left; margin:5px 5px 0 5px; padding:0 5px; height:15px; line-height:15px; text-align:center; border:1px solid #d8d8d8; background:#f6f6f6; cursor:default}
+.pginBarSmallHover{ float:left; margin:5px 5px 0 5px; padding:0 5px; height:15px; line-height:15px; text-align:center; border:1px solid #d8d8d8;  background:#ffcc00;cursor:pointer}
+/* 小翻页条结束 */
+
+
+
+/*.kuSelect .fl{ height:30px; line-height:30px;}*/
+.kupage{ float:right; height:28px;}
+.kupage p{ float:left; margin-right:10px; height:28px; line-height:28px;}
+.kupage p span{ padding:0 15px; font-size:14px; color:#ff6600; font-family:\5FAE\8F6F\96C5\9ED1}
+.kupage a.pageYm{ float:left; margin:5px 5px 0 5px; padding:0 5px; height:15px; line-height:15px; text-align:center; border:1px solid #d8d8d8; background:#f6f6f6;}
+.kupage .pageYm2{ float:left; padding:0 5px; height:28px; line-height:28px;}
+.kupage .pageYm2 span{ color:#ff9900}
+.kuTable{ border:1px solid #ebebeb;border-right:1px;}
+.kuTable table{ width:100%;}
+.kuTable table col.knum{ width:126px;}
+.kuTable table col.kname{ width:212px;}
+.kuTable table col.ksname{ width:258px;}
+.kuTable table col.kguige{ width:91px;}
+.kuTable table col.ktotal{ width:99px;}
+.kuTable table col.kaction{ width:114px;}
+.kuTable table col.kw110{ width:110px;}
+.kuTable table col.kw92{ width:92px;}
+.kuTable table col.kw113{ width:113px;}
+.kuTable table col.kw168{ width:168px;}
+.kuTable table col.kw111{ width:111px;}
+.kuTable table col.kw101{ width:101px;}
+.kuTable table col.kw100{ width:100px;}
+.kuTable table col.kw98{ width:98px;}
+.kuTable table col.kw125{ width:125px;}
+.kuTable table col.kw121{ width:125px;}
+.kuTable table col.kw147{ width:147px;}
+.kuTable table col.kw79{ width:79px;}
+.kuTable table col.kw130{ width:130px;}
+
+.kuTable th{margin:4px 0; padding-left:10px; height:34px; line-height:34px; border-right:1px solid #ebebeb; background:#f6f6f6; color:#333; font-weight:bold; text-align:left; font-family:\5FAE\8F6F\96C5\9ED1;}
+.kuTable th.noborder{ border-right:none; text-align:center;}
+.kuTable td.noborder{ border-right:none; text-align:center;}
+.kuTable td{ padding:5px 0 5px 10px; border-right:1px solid #ebebeb;}
+.kuTable td.pageBox{ border-bottom:1px solid #ebebeb}
+.kuTable td a.blue{ color:#4270BE}
+.kuTable td a.red{ color:#CC0000}
+.kuTable td a.green{ color:#669900}
+.kuTable td span.f14red{ font-size:14px; color:#ff6600; font-weight:700; font-family:\5FAE\8F6F\96C5\9ED1;}
+
+
+.datagrid-mask {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+  display: none;
+  background: #ccc;
+}
+.datagrid-mask-msg {
+  position: absolute;
+  top: 50%;
+  margin-top: -20px;
+  padding: 12px 5px 10px 30px;
+  width: auto;
+  height: 16px;
+  border-width: 2px;
+  border-style: solid;
+  display: none;
+  border-color: #95B8E7;
+  background: #ffffff url('../img/loading.gif') no-repeat scroll 5px center;
+}
+
+
+#TableData tr:hover {
+	background: #FFD;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

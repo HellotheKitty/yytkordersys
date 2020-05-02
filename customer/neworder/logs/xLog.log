@@ -1,0 +1,7 @@
+[2016-10-19 12:27:21][NOTICE] update order_mxqt set dsm1='' , sl1 = 0 ,paper1 = 64 , machine1= 'Hp10000彩色',pnum1=1 , pname = '' , sczzbh1='',
+ dsm2='双面' , sl2 = 0 ,paper2 = 33 , machine2= 'Hp彩色',pnum2=0 , sczzbh2='' where id=353432
+[2017-03-31 18:43:58][INFO] insert into order_mxqt (id,ddh,productname,n1,machine1,paper1,jldw1,dsm1,hzx1,pnum1,sl1,jg1) values (0,'20170306742','单张','单张','Hp彩色','7','P','','','0','0','0')
+[2017-03-31 18:44:04][INFO] insert into order_mxqt (id,ddh,productname,n1,machine1,paper1,jldw1,dsm1,hzx1,pnum1,sl1,jg1) values (0,'20170306742','单张','单张','Hp彩色','7','P','','','0','0','0')
+[2017-03-31 19:00:50][INFO] insert into order_mxqt (id,ddh,productname,n1,machine1,paper1,jldw1,dsm1,hzx1,pnum1,sl1,jg1) values (0,'20170306742','单张','单张','Hp彩色','7','P','','','0','0','0')
+[2017-03-31 19:02:43][INFO] insert into order_mxqt_test (id,ddh,productname,n1,machine1,paper1,jldw1,dsm1,hzx1,pnum1,sl1,jg1) values (0,'20170306742','单张','单张','Hp彩色','7','P','','','0','88','0') ,(0,'20170306742','单张','单张','Hp彩色','7','P','','','0','88','0')
+[2017-03-31 19:04:05][INFO] insert into order_mxqt_test (id,ddh,productname,n1,machine1,paper1,jldw1,dsm1,hzx1,pnum1,sl1,jg1) values (0,'20170306742','单张','单张','Hp彩色','7','P','','','0','88','0') ,(0,'20170306742','单张','单张','Hp彩色','7','P','','','0','88','0')

@@ -1,0 +1,244 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<head>
+	<script src="../html5shiv-master/dist/html5shiv-printshiv.js"></script>
+	<style type="text/css">
+	body {
+		background-color: #fafafa;
+	}
+	.page {
+		background-color:#fcfcfc;
+		left:0px;
+		top:0px;
+		height:800px;
+	}
+	.topline {
+	  background-color: rgb( 49, 49, 49 );
+	  position: absolute;
+	  left: 0px;
+	  top: 0px;
+	  width: 100%;
+	  height: 25px;
+	}
+	.exit {
+		position:absolute;
+		right:20px;
+		top:0px;
+		width:63px;
+		height:25px;
+		z-index:10;
+	}
+    .logo {
+ 		position:absolute;
+ 		left:25px;
+ 		top:32px;
+ 		width:430px;
+ 		height:49px;
+		z-index:10;
+ 	}
+
+	.searchbutton {
+	  border-width: 1.389px;
+	  border-color: rgb( 71, 135, 237 );
+	  border-style: solid;
+	  background-image: -moz-linear-gradient( -90deg, rgb(77,144,254) 0%, rgb(72,136,238) 100%);
+	  background-image: -webkit-linear-gradient( -90deg, rgb(77,144,254) 0%, rgb(72,136,238) 100%);
+	  background-image: -ms-linear-gradient( -90deg, rgb(77,144,254) 0%, rgb(72,136,238) 100%);
+	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4d8ffd', endColorstr='#4888ee');
+	  position: absolute;
+	  right:107px;
+	  top: 42px;
+	  width: 40px;
+	  height: 22px;
+	  z-index: 10;
+	}
+	.searchtextfield {
+	  border-width: 1.389px;
+	  border-color: rgb( 193, 193, 193 );
+	  border-style: solid;
+	  background-color: rgb( 255, 255, 255 );
+	  position: absolute;
+	  right:150px;
+	  top: 42px;
+	  width: 238.222px;
+	  height: 22px;
+	  z-index: 10;
+	}
+	.searchicon {
+		margin-left:14px;
+		margin-top:5px;
+		*margin-top:3px;
+		width:13px;
+		height:13px;
+		z-index:20;
+	}
+	
+	.headerbg {
+	  background-color: rgb( 250, 250, 250 );
+	  position: absolute;
+	  left: 0px;
+	  top: 25px;
+	  width: 100%;
+	  height: 65px;
+	}
+	.navleft {
+	  background-color: rgb( 54, 131, 255 );
+	  position: absolute;
+	  left: 0px;
+	  top: 80px;
+	  width: 240px;
+	  height: 35px;
+	  z-index: 10;
+	}
+	.navmid {
+	  background-image: -moz-linear-gradient( 0deg, rgb(52,126,245) 0%, rgb(54,131,255) 100%);
+	  background-image: -webkit-linear-gradient( 0deg, rgb(52,126,245) 0%, rgb(54,131,255) 100%);
+	  background-image: -ms-linear-gradient( 0deg, rgb(52,126,245) 0%, rgb(54,131,255) 100%);
+	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#347ef6', endColorstr='#3683ff',gradientType=1);
+	  position: absolute;
+	  left: 230px;
+	  top: 85px;
+	  width: 100px;
+	  height: 35px;	
+	  z-index:5;  
+	}
+	.navright {
+	  background-color: rgb( 54, 131, 255 );
+	  position: absolute;
+	  left: 330px;
+	  right:0px;
+	  top: 85px;
+	  height: 35px;
+	  z-index:5;
+	}
+	.navshadow {
+		position:absolute;
+		left:230px;
+		top:115px;
+		*top:105px;
+		width:10px;
+		height:5px;
+		z-index:10;
+	}
+	.shouye {
+		position:absolute;
+		left:0px;
+		top:80px;
+		width:130px;
+		height:35px;
+		z-index:20;
+	}
+	.mail {
+		position:absolute;
+		right:230px;
+		top:85px;
+		width:98px;
+		height:35px;
+		z-index:10;
+	}
+	.Schedule {
+		position:absolute;
+		right:107px;
+		top:85px;
+		width:118px;
+		height:35px;
+		z-index:10;
+		
+	}
+	.contacts {
+		position:absolute;
+		right:20px;
+		top:85px;
+		width:82px;
+		height:35px;
+		z-index:10;
+		
+	}
+	
+
+	.leftsidebg {
+	  background-color: rgb( 243, 243, 247 );
+	  position: absolute;
+	  left: 0px;
+	  top: 115px;
+	  width: 230px;
+	  height: 100%;
+	}
+	.shadow1 {
+	  background-color: rgb( 233, 233, 233 );
+	  position: absolute;
+	  left: 230px;
+	  top: 120px;
+	  width: 1px;
+	  height: 99.4%;
+	}
+	.shadow2 {
+	  background-color: rgb( 247, 247, 247 );
+	  position: absolute;
+	  left: 231px;
+	  top: 120px;
+	  width: 1px;
+	  height: 99.4%;
+	}
+	.mainbackground {
+	  border-style: solid;
+	  border-width: 1px;
+	  border-color: rgb( 204, 204, 204 );
+	  border-radius: 5px;
+	  background-color: rgb( 255, 255, 255 );
+	  position: absolute;
+	  left: 242px;
+	  right:11px;
+	  top: 132px;
+	  bottom:11px;
+	  height: 96%;
+	  z-index: 10;
+	}
+	
+	</style>
+</head>
+
+<body>
+		<script src="../html5shiv-master/dist/html5shiv.js"></script>
+<div class="page">		
+	<div class="topline"></div>
+	<div class="exit">
+		<img src="images/exit.gif" width="63" height="25" alt="">
+	</div>
+	<div class="logo">
+		<img src="images/logo.gif" width="430" height="49" alt="">
+	</div>
+	
+	<div class="searchbutton"><div class="searchicon">
+		<img src="images/searchicon.gif" width="13" height="13" alt="">
+	</div></div>
+	<div class="searchtextfield"></div>
+	<div class="navleft"></div>
+	<div class="navmid"></div>
+	<div class="navright"></div>
+	<div class="headerbg"></div>
+	<div class="shouye">
+		<img src="images/shouye.gif" width="130" height="35" alt="">
+	</div>
+	<div class="mail">
+		<img src="images/mail.gif" width="98" height="35" alt="">
+	</div>
+	<div class="Schedule">
+		<img src="images/Schedule.gif" width="118" height="35" alt="">
+	</div>
+	<div class="contacts">
+		<img src="images/contacts.gif" width="82" height="35" alt="">
+	</div>
+	<div class="navshadow">
+		<img src="images/navshadow.gif" width="10" height="5" alt="">
+	</div>
+	<div class="leftsidebg"></div>
+	<div class="leftsidebg"></div>
+	<div class="shadow1"></div>
+	<div class="shadow2"></div>
+	<div class="mainbackground"></div>
+</div>	
+</body>
+</html>

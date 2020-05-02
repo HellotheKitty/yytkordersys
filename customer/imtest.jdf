@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JDF ID="JDF002" DescriptiveName="imtest" Status="Ready" Type="Combined" Types="LayoutPreparation DigitalPrinting" Version="1.2" xmlns="http://www.CIP4.org/JDFSchema_1_1"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.CIP4.org/JDFSchema_1_1 file:/C:/users/shiebert/Projects/CIP4/Working%20Groups/Schema%20Maintenance/JDFSchema/Version_1_3/JDF.xsd">
+        <ResourcePool>
+            <!-- 
+                    The RunList below identifies an 8 page document.
+            -->
+            <RunList Class="Parameter" ID="RL001" Status="Available">
+                <LayoutElement>
+                    <FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/imtest/imtest01.pdf"/>
+                </LayoutElement>
+            </RunList>
+            <!-- 
+                    The LayoutPreparationParams below specifies a preloaded HP imposition template.  The "urn:" URL
+                    scheme is stripped off when creating the Mobius ticket.  Note that with HP Production Pro you must
+					select a valid substrate for impostion to work properly.
+            -->
+            <LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipY" Status="Available">
+                    <PageCell TrimSize="2125 1501" />
+                    <ExternalImpositionTemplate>
+                            <FileSpec URL="urn:bl_4up_ss_h"/> 
+                    </ExternalImpositionTemplate>
+            </LayoutPreparationParams>
+            <!--
+                    The DigitalPrintingParams resource below provides no additional information.  It is required by JDF
+                    due to the DigitalPrinting process listed in the Types attribute of the JDF node.
+            -->
+            <DigitalPrintingParams Class="Parameter" ID="DPP001" PartIDKeys="SheetIndex" Status="Available">
+                <DigitalPrintingParams SheetIndex="0 ~ 72">
+                    <MediaRef rRef="Content"/>
+                </DigitalPrintingParams>
+			</DigitalPrintingParams>
+            <!-- 
+                    The Media resource below identifies the substrate.  It provides no additional information.  It is a required
+                    input resource of the DigitalPrinting process listed in the Types attribute of the JDF node.
+            -->
+            <Media Class="Consumable" DescriptiveName="12x18" ID="Content" Status="Available" StockType="Content"/>
+            <!--
+                    The Component resource identifies the final result of printing.
+            -->
+            <Component Class="Quantity" ComponentType="FinalProduct" ID="C001" Status="Unavailable"/>
+        </ResourcePool>
+        <ResourceLinkPool>
+                <RunListLink rRef="RL001" Usage="Input"/>
+                <LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+                <DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+                <MediaLink rRef="Content" Usage="Input"/>
+                <ComponentLink rRef="C001" Usage="Output"/>
+        </ResourceLinkPool>
+</JDF>

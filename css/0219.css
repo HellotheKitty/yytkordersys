@@ -1,0 +1,108 @@
+.OutsideBorder {
+	border: 1px solid #ffffff;
+	margin: 5x;
+	width: 230px;
+	float: left;
+}
+
+.InsideBorder {
+	border: 1px solid #91c0e3;
+	padding-top: 5px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+}
+
+.OperateArea {
+	margin:0px;
+	background-color: #ffffff;
+	width: 100%;
+}
+
+#SearchInputArea {
+	border: 1px solid #91c0e3;
+	background:url(../images/personSelector_bg.gif) repeat-x left top !important;
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#deeef8,endcolorstr=#ffffff,gradientType=0);
+	width: 100%;
+	padding: 0;
+	height: 22px;
+	margin-bottom: 5px;
+}
+
+#SearchInputArea img {
+	margin-bottom: -5px;
+}
+
+select {
+	width: 100%;
+	height: 320px;
+}
+
+.SearchInput {
+	BACKGROUND-COLOR: transparent;
+	border: 0;
+	color: #000000;
+	font-size: 12pt;
+	width: 170px;
+}
+
+#ItemListArea {
+	text-align: left;
+	border: 1px solid #91c0e3;
+	height: 362px;
+}
+
+#ItemListArea ul {
+	margin: 0;
+}
+
+#ItemListArea li {
+	margin:0;
+	width: 100%;
+	border-bottom: 1px solid #91c0e3;
+}
+
+#ItemListArea span {
+	background-color: #b6d9ef;
+	margin: 1px;
+	height: 20px;
+	display: inline-block;
+	line-height: 20px;
+	color: #004a7d;
+	padding-top: 3px;
+	width:215px;
+}
+
+#ItemListArea div {
+	background-color: #ffffff;
+	height: 220px;
+}
+
+#SelectedHead {
+	height: 25px;
+	text-align: left;
+	padding-left: 2px;
+	background:url(../images/personSelector_bg.gif) repeat-x left top !important;
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#deeef8,endcolorstr=#ffffff,gradientType=0);
+	border: 1px solid #91c0e3;
+	margin-bottom: 5px;
+	padding-top: 5px;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+#SelectedHead img {
+	margin-bottom: -3px;
+}
+
+.Selected {
+	height: 330px;
+	width: 100%;
+}
+
+.tab_suggest {border:1px solid #333; background:#fff; position:absolute; z-index:101; visibility: hidden;}
+.tab_suggest th, .tab_suggest td{font:12px '宋体'; font-weight:normal; height:17px; text-align:left; line-height:17px; padding:2px 3px; white-space:nowrap; cursor: default;}
+.tab_suggest td{color:#008000; text-align:right;}
+.tab_suggest tr.cur{background:#36c; color:#fff}
+.tab_suggest tr.cur td{color:#fff}
+.th_suggest{color:#FF0000}

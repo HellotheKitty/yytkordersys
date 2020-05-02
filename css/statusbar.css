@@ -1,0 +1,103 @@
+A:link {
+	COLOR: #a9dcff; TEXT-DECORATION: none
+}
+
+A:visited {
+	COLOR: #a9dcff; TEXT-DECORATION: none
+}
+
+A:active {
+	COLOR: #a9dcff; TEXT-DECORATION: none
+}
+
+A:hover {
+	COLOR: #a9dcff; TEXT-DECORATION: none;
+}
+
+#StatusBar {
+	width: 100%;
+	height: 21px;
+	margin:0;
+	padding: 2px;
+/* 	border-top: 1px solid #ffffff; */
+	background: #4787ed/* #3d7aa7 */;
+/* 	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#3d7aa7,endcolorstr=#4891c6,gradientType=0); */
+}
+
+#Online {
+	color: #FFFFFF/* #a9dcff */;
+	font-family: 宋体;
+	font-size: 12px;
+	float: left;
+	height:21px;
+	margin-left:20px;
+	margin-right:170px;
+	display:block;
+	cursor:pointer;
+}
+#leftMenu {
+    height:13px;
+	margin-right:8px;
+	margin-top:4px;
+	cursor:pointer;
+}
+.onlinetext{
+    height:21px;
+	display:inline-block;
+	*+display:inline;
+	padding:0;
+	position:absolute;
+	line-height:21px;
+}
+.OnlineUser {
+	color: #ffffff;
+	font-family: 宋体;
+	font-size: 12px;
+	font-weight:bold;
+}
+
+.OnlineView {
+	padding-left: 16px;
+	color: #FFFFFF/* #a9dcff */;
+	font-family: 宋体;
+	font-size: 12px;
+}
+
+#Info {
+	height:21px;
+	line-height:21px;
+	color: #FFFFFF/* #a9dcff */;
+	font-family: 宋体;
+	font-size: 12px;
+	float: left;
+}
+
+#TryoutInfo {
+	padding-right: 20px;
+	padding-left: 20px;
+	color: #FFFFFF/* #a9dcff */;
+	font-family: 宋体;
+	font-size: 12px;
+}
+
+#DesktopText {
+	padding-right: 20px;
+	color: #FFFFFF/* #a9dcff */;
+	font-family: 宋体;
+	font-size: 12px;
+	float: right;
+	height:21px;
+	line-height:22px;
+}
+
+#DesktopText img {
+	margin-bottom: -2px;
+	color:#FFFfFF;
+	margin-right:5px;
+}
+
+#Version a{
+	margin-left:5px;
+	margin-right:20px;
+	color:#FFFfFF;
+}

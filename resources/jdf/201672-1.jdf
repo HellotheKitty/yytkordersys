@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="201672-1">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType=""/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="1672"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="" Status="Available">
+<PageCell TrimSize="907 1315" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="201672-1">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType=""/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="1672"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipY" Status="Available">
+<PageCell TrimSize="907 1315" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF>

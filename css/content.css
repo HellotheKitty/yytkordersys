@@ -1,0 +1,132 @@
+BODY {
+	BACKGROUND-POSITION: left top; SCROLLBAR-FACE-COLOR: #eeeeee; FONT-SIZE: 9pt; BACKGROUND-IMAGE: url(../images/main_guide_bg2.gif); SCROLLBAR-HIGHLIGHT-COLOR: #aaaaaa; SCROLLBAR-SHADOW-COLOR: #aaaaaa; SCROLLBAR-3DLIGHT-COLOR: #eeeeee; SCROLLBAR-ARROW-COLOR: #aaaaaa; SCROLLBAR-TRACK-COLOR: #eeeeee; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: "������"; SCROLLBAR-DARKSHADOW-COLOR: #eeeeee
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "����"; HEIGHT: 24px; BACKGROUND-COLOR: #ffffff
+}
+TR {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "������"; HEIGHT: 25px; BACKGROUND-COLOR: #f7f7f7
+}
+TD.deep {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "������"; HEIGHT: auto; BACKGROUND-COLOR: #ececec
+}
+TR.deep {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "������"; HEIGHT: 25px; BACKGROUND-COLOR: #ececec
+}
+TD.tint {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "������"; HEIGHT: 25px; BACKGROUND-COLOR: #f7f7f7
+}
+TR.tint {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "������"; HEIGHT: 25px; BACKGROUND-COLOR: #f7f7f7
+}
+TD.svacant {
+	BACKGROUND-POSITION: center center; BACKGROUND-IMAGE: url(../images/uresource/r_s_vacant.gif); WIDTH: 17px; COLOR: red; BACKGROUND-REPEAT: no-repeat; HEIGHT: 24px; BACKGROUND-COLOR: #ececec
+}
+TD.sinuse {
+	BACKGROUND-POSITION: center center; BACKGROUND-IMAGE: url(../images/uresource/r_s_inuse.gif); WIDTH: 17px; COLOR: red; BACKGROUND-REPEAT: no-repeat; HEIGHT: 24px; BACKGROUND-COLOR: #ececec
+}
+TD.sarranged {
+	BACKGROUND-POSITION: center center; BACKGROUND-IMAGE: url(../images/uresource/r_s_arranged.gif); WIDTH: 17px; COLOR: red; BACKGROUND-REPEAT: no-repeat; HEIGHT: 24px; BACKGROUND-COLOR: #ececec
+}
+INPUT {
+	FONT-SIZE: 10.5pt; FONT-FAMILY: "������"; HEIGHT: 24px
+}
+.wx_INPUT {
+	FONT-SIZE: 10.5pt; FONT-FAMILY: "������"; HEIGHT: 25px
+}
+BUTTON {
+	BORDER-RIGHT: #be5414 1px solid; BORDER-TOP: #be5414 1px solid; FONT-SIZE: 10.5pt; BORDER-LEFT: #be5414 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #be5414 1px solid; FONT-FAMILY: "������"; BACKGROUND-COLOR: #f58541
+}
+A:link {
+	FONT-SIZE: 9pt
+}
+A:visited {
+	FONT-SIZE: 9pt
+}
+A:active {
+	FONT-SIZE: 9pt
+}
+A:hover {
+	FONT-SIZE: 9pt
+}
+.maintable {
+	BORDER-RIGHT: #ffffff 1px; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px; FONT-FAMILY: "������"; BACKGROUND-COLOR: #99baec; TEXT-DECORATION: none
+}
+.head {
+	BACKGROUND-POSITION: 1px 50%; FONT-SIZE: 12px; BORDER-LEFT-COLOR: #ffffff; BACKGROUND-IMAGE: url(nabg1.gif); VERTICAL-ALIGN: bottom; COLOR: #000000; BORDER-TOP-STYLE: none; BORDER-TOP-COLOR: #000099; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: "������"; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 22px; BORDER-RIGHT-COLOR: #ffffff
+}
+A.header:link {
+	FONT-SIZE: 10.5pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.header:visited {
+	FONT-SIZE: 10.5pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.header:active {
+	FONT-SIZE: 10.5pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.header:hover {
+	FONT-SIZE: 10.5pt; COLOR: #ffffff
+}
+.field {
+	FONT-SIZE: 9pt
+}
+.button {
+	CLEAR: both; BORDER-RIGHT: #be5414 1px solid; BORDER-TOP: #be5414 1px solid; FONT-SIZE: 10.5pt; BORDER-LEFT: #be5414 1px solid; WIDTH: 45px; COLOR: #ffffff; BORDER-BOTTOM: #be5414 1px solid; HEIGHT: 22px; BACKGROUND-COLOR: #f58541
+}
+.wx_button{
+	CLEAR: both; BORDER-RIGHT: #be5414 1px solid; BORDER-TOP: #be5414 1px solid; FONT-SIZE: 10.5pt; BORDER-LEFT: #be5414 1px solid; WIDTH: 45px; COLOR: #ffffff; BORDER-BOTTOM: #be5414 1px solid; HEIGHT: 25px; BACKGROUND-COLOR: #f58541
+}
+.guide {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; BACKGROUND-IMAGE: url(../images/main_guide_bg2.gif); COLOR: #282828; LINE-HEIGHT: normal; FONT-FAMILY: "������"
+}
+.menubutton {
+	FONT-SIZE: 9pt;
+	font-family: "����";
+	height: 20px;
+	width: 35px;
+}
+.page {
+	FONT-SIZE: 9pt; COLOR: #999999; TEXT-DECORATION: none
+}
+TD.whitebg {
+	BACKGROUND-COLOR: #ffffff
+}
+.bbg {
+	BACKGROUND-POSITION: center center; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 9pt; BORDER-LEFT-COLOR: #ffffff; BACKGROUND-IMAGE: url(../images/buttons/b_bg.gif); PADDING-TOP: 1px; BORDER-BOTTOM: #ffffff 1px solid; BACKGROUND-REPEAT: repeat-x; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-RIGHT-COLOR: #ffffff
+}
+.tablebg {
+	BACKGROUND-POSITION: center center; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 9pt; BORDER-LEFT-COLOR: #ffffff; BACKGROUND-IMAGE: url(../images/buttons/button_bg.gif); PADDING-TOP: 1px; BORDER-BOTTOM: #ffffff 1px solid; BACKGROUND-REPEAT: repeat-x; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-RIGHT-COLOR: #ffffff
+}
+A.nav:link {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A.nav:visited {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A.nav:hover {
+	FONT-SIZE: 9pt; COLOR: #e86c22
+}
+A.nav2:link {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A.nav2:visited {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A.nav2:hover {
+	FONT-SIZE: 9pt; COLOR: #e86c22
+}
+A.operate:link {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A.operate:visited {
+	FONT-SIZE: 10.5pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A.operate:hover {
+	FONT-SIZE: 10.5pt; COLOR: #e86c22
+}
+.note {
+	FONT-SIZE: 9pt; COLOR: #999999
+}
+.alert {
+	FONT-SIZE: 9pt; COLOR: #ff0000
+}

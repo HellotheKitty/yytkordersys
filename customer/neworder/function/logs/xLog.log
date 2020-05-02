@@ -1,0 +1,9 @@
+
+[2016-10-18 16:37:12][INFO] .
+[2016-10-18 16:37:12][INFO] ..
+[2016-10-18 16:37:12][INFO] 1.jpg
+[2016-10-18 16:37:12][INFO] 4.jpg
+[2016-10-18 16:37:12][INFO] 5.jpg
+[2016-10-18 16:37:12][INFO] 6.jpg
+[2016-10-19 15:28:40][INFO] update order_mxqt set file1='http://oa.skyprint.cn/customer/neworder/server/files/000576-1.pdf', dsm1='' , sl1 = 0 ,paper1 = 64 , machine1= 'Hp10000彩色',pnum1= , pname = '' , sczzbh1='',
+ file2='http://oa.skyprint.cn/customer/neworder/server/files/000576-2.pdf' , dsm2='' , sl2 =  ,paper2 =  , machine2= '',pnum2= , sczzbh2='' where id=353432

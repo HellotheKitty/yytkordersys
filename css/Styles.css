@@ -1,0 +1,193 @@
+
+.detlink{
+    color: #004a7d;
+    text-decoration: underline;
+}
+a
+{
+    outline: none;
+}
+div.leftside {
+    position: absolute;
+    background-color: #f3f3f7;
+    width: 200px;
+    height: 100%;
+    top:0px;
+    left: 0;
+    -moz-box-shadow:0px 2px 3px #888 !important;
+    -webkit-box-shadow:0px 2px 3px #888 !important;
+    box-shadow:0px 2px 3px #888 !important;
+    *border-right: 1px solid #e9e9e9;
+    /*
+    *filter:progid:DXImageTransform.Microsoft.Blur(pixelradius=5);
+    *-ms-filter:"progid:DXImageTransform.Microsoft.Blur(pixelradius=5)";
+    behavior: url(js/ie-css3.htc); /* 通知IE浏览器调用脚本作用于'box'类 */
+
+}
+div.menuTree
+{
+    width: 200px;
+}
+div.liline {
+    width: 200px;
+    height: 1px;
+    background-color: #e9e9e9;
+    left: 0px;
+    margin-top: 0px;
+}
+div.menuTree UL
+{
+    font-size: 14px;
+    padding: 0px 0px;
+    margin: 0px;
+    display:none;
+}
+div.menuTree UL LI
+{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    white-space: nowrap;
+    line-height: 35px;
+}
+div.treeicon{
+    float: left;
+    width: 25px;
+    height: 25px;
+    margin:5px 10px 5px 20px;
+    background-repeat: no-repeat;
+    color:#fff;
+}
+div.cwgzt {
+
+    background: url('../leftimages/menuIcon.png') 0px 0px;
+}
+div.ordermanage {
+
+    background: url('../leftimages/menuIcon.png') -25px 0px;
+}
+div.stockmanage {
+    background: url('../leftimages/menuIcon.png') -50px 0px;
+}
+div.pricemanage{
+    background: url('../leftimages/menuIcon.png') -75px 0px;
+}
+div.guestmanage {
+    background: url('../leftimages/menuIcon.png') -100px 0px;
+}
+div.employmanage {
+    background: url('../leftimages/menuIcon.png') -125px 0px;
+}
+div.shoujiduanxin {
+    background: url('../leftimages/menuIcon.png') -150px 0px;
+}
+div.zonghexingzheng {
+    background: url('../leftimages/menuIcon.png') -175px 0px;
+}
+div.shiyonggongju {
+    background: url('../leftimages/menuIcon.png') -200px 0px;
+}
+div.zhengshoufantui {
+    background: url('../leftimages/menuIcon.png') -225px 0px;
+}
+div.countdata {
+    background: url('../leftimages/menuIcon.png') -250px 0px;
+}
+div.renzhengshenpi {
+    background: url('../leftimages/menuIcon.png') -275px 0px;
+}
+div.nenghaotongji {
+    background: url('../leftimages/menuIcon.png') -300px 0px;
+}
+div.gerenshezhi {
+    background: url('../leftimages/menuIcon.png') -325px 0px;
+}
+div.taskmanage{
+    background: url('../leftimages/menuIcon.png') -275px 0px;
+}
+div.menuTree UL LI.parent A
+{
+    color: #666666;
+    text-decoration: none;
+    padding: 0px 0px;
+    display: block;
+    font-size: 14px;
+    background: url('../leftimages/menubg.gif');
+
+}
+div.menuTree UL LI.parent A:hover
+{
+    color: #000000;
+    text-decoration: none;
+    padding: 0px 0px;
+    display: block;
+    font-size: 14px;
+    background: url('../leftimages/menuhoverbg.gif');
+}
+div.menuTree UL LI.child A
+{
+    color: #737373;
+    text-decoration: none;
+    padding: 0px 0px;
+    padding-left: 80px;
+    display: block;
+    font-size: 13px;
+    background: url('../leftimages/secondlevelbg.gif');
+}
+div.menuTree UL LI.child A:hover
+{
+    color: #3683ff;
+    text-decoration: none;
+    padding: 0px 0px;
+    padding-left: 80px;
+    display: block;
+    font-size: 13px;
+    background: url('../leftimages/secondlevelhover1.jpg');
+    background-repeat: no-repeat;
+    margin-right: -4px;
+    *width: 124px;   /* for IE */
+}
+div.menuTree UL LI.childclick A
+{
+    color: #3683ff;
+    text-decoration: none;
+    padding: 0px 0px;
+    padding-left: 80px;
+    display: block;
+    font-size: 13px;
+    background: url('../leftimages/secondlevelclick.jpg');
+    background-repeat:no-repeat;
+    margin-right: -4px;
+    *width: 124px;   /* for IE */
+}
+div.menuTree UL LI.childclick A:hover
+{
+    color: #3683ff;
+    text-decoration: none;
+    padding: 0;
+    padding-left: 80px;
+    display: block;
+    font-size: 13px;
+    background: url('../leftimages/secondlevelhover1.jpg');
+    background-repeat:no-repeat;
+    margin-right: -4px;
+    *width: 124px;   /* for IE */
+}
+.neatbtn{
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #555;
+    border-radius: 3px;
+    color: #333;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+    margin:5px;
+    padding: 0 5px;
+}
+.smallbtn{
+    font-size:12px;
+}
+.bluebtn{
+    color: #004a7d;
+    border-color: #004a7d;
+}

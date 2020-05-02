@@ -1,0 +1,16 @@
+<?php
+$mysql_server_name='localhost:3306';
+$mysql_username='root';
+$mysql_password='wiNNer88382383';
+$mysql_database='zjqg';
+$conn=mysql_connect($mysql_server_name,$mysql_username,$mysql_password,$mysql_database);
+mysql_select_db($mysql_database, $conn);   
+mysql_query("SET NAMES UTF8"); 
+ 
+function dw0($dw) {
+if (substr($dw,2,6)=="000000") return substr($dw,0,2);
+elseif (substr($dw,4,4)=="0000") return substr($dw,0,4);
+elseif (substr($dw,6,2)=="00") return substr($dw,0,6);
+else return $dw;
+}                
+?>

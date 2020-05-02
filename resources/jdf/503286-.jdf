@@ -1,0 +1,1891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1120I72-zzmc-2018.07.11_190613-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="25" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/2-1162I72-zzmc-2018.07.11_190858-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="2" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1138I72-zzmc-2018.07.11_190809-S4-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1150I72-zzmc-2018.07.11_190835-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/100-1116I72-zzmc-2018.07.11_190548-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="100" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/50-1121I72-zzmc-2018.07.11_190727-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="50" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1132I72-zzmc-2018.07.11_190802-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/55-1118I72-zzmc-2018.07.11_190603-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1128I72-zzmc-2018.07.11_190753-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1122I72-zzmc-2018.07.11_190731-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1122I72-zzmc-2018.07.11_190617-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1126I72-zzmc-2018.07.11_190747-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1130I72-zzmc-2018.07.11_190758-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/100-1117I72-zzmc-2018.07.11_190556-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1121I72-zzmc-2018.07.11_190615-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1129I72-zzmc-2018.07.11_190755-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1131I72-zzmc-2018.07.11_190800-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/100-118I72-zzmc-2018.07.11_190457-S4-S4-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1120I72-zzmc-2018.07.11_190613-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/100-1116I72-zzmc-2018.07.11_190548-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/50-1121I72-zzmc-2018.07.11_190727-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1119I72-zzmc-2018.07.11_190607-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/100-112I72-zzmc-2018.07.11_190443-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1133I72-zzmc-2018.07.11_190805-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1125I72-zzmc-2018.07.11_190743-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1123I72-zzmc-2018.07.11_190736-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1124I72-zzmc-2018.07.11_190739-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1127I72-zzmc-2018.07.11_190751-S2-S2-barcode.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="1" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1151I72-zzmc-2018.07.11_190836-S8-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1132I72-zzmc-2018.07.11_190802-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="13" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/2-1157I72-zzmc-2018.07.11_190852-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="2" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1141I72-zzmc-2018.07.11_190813-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/55-1118I72-zzmc-2018.07.11_190603-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="55" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1145I72-zzmc-2018.07.11_190823-S6-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1128I72-zzmc-2018.07.11_190753-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="13" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1122I72-zzmc-2018.07.11_190731-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="25" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1122I72-zzmc-2018.07.11_190617-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="25" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1126I72-zzmc-2018.07.11_190747-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="25" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/2-1163I72-zzmc-2018.07.11_190859-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="2" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1130I72-zzmc-2018.07.11_190758-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="13" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/100-1117I72-zzmc-2018.07.11_190556-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="100" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1146I72-zzmc-2018.07.11_190826-S6-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1121I72-zzmc-2018.07.11_190615-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="25" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1129I72-zzmc-2018.07.11_190755-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="13" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1148I72-zzmc-2018.07.11_190833-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1143I72-zzmc-2018.07.11_190819-S6-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/2-1155I72-zzmc-2018.07.11_190849-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="2" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK5"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/2-1156I72-zzmc-2018.07.11_190851-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="2" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK4"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1131I72-zzmc-2018.07.11_190800-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="13" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK4"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/2-1161I72-zzmc-2018.07.11_190857-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="2" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK4"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1149I72-zzmc-2018.07.11_190834-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK4"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/2-1164I72-zzmc-2018.07.11_190901-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="2" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK4"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1153I72-zzmc-2018.07.11_190844-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1147I72-zzmc-2018.07.11_190831-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK3"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1136I72-zzmc-2018.07.11_190805-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK2"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/2-1160I72-zzmc-2018.07.11_190856-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="2" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK2"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1119I72-zzmc-2018.07.11_190607-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="25" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK2"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1152I72-zzmc-2018.07.11_190841-S4-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK2"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/100-112I72-zzmc-2018.07.11_190443-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="100" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK2"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1133I72-zzmc-2018.07.11_190805-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="13" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK2"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1125I72-zzmc-2018.07.11_190743-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="25" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK2"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/2-1159I72-zzmc-2018.07.11_190854-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="2" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK2"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1123I72-zzmc-2018.07.11_190736-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="25" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK2"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/2-1154I72-zzmc-2018.07.11_190848-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="2" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType="YK2"/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1140I72-zzmc-2018.07.11_190812-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType=""/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/2-1158I72-zzmc-2018.07.11_190853-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="2" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType=""/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1142I72-zzmc-2018.07.11_190815-S6-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType=""/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/25-1124I72-zzmc-2018.07.11_190739-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="25" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType=""/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/3-1137I72-zzmc-2018.07.11_190808-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="3" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF><?xml version="1.0" encoding="UTF-8"?>
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2"  Types="DigitalPrinting LayoutPreparation " DescriptiveName="503286-">
+<ResourcePool>
+<DigitalPrintingParams Class="Parameter" Collate="Sheet" ID="DPP002" Status="Available" />
+<Media Class="Consumable" ID="M001" Status="Available" StockType=""/>
+<DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available" PageDelivery="ReverseOrderFaceUP"/>
+<RunList ID="RunList_1" Status="Available" Class="Parameter">
+<LayoutElement>
+<FileSpec MimeType="application/pdf" URL="http://erp.yikayin.com/nc_erp/Pok1/13-1127I72-zzmc-2018.07.11_190751-S2-S2-main.pdf"/>
+</LayoutElement>
+</RunList>
+<LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipX" Status="Available">
+<PageCell TrimSize="2179 1501" />
+</LayoutPreparationParams>
+<FeedingParams Class="Parameter" ID="FPS-DS" Status="Available">
+<Feeder FeederType="Copy" />
+</FeedingParams>
+<Component ID="Component" ComponentType="FinalProduct" Status="Unavailable" Class="Quantity"> </Component>
+</ResourcePool>
+<ResourceLinkPool>
+<MediaLink rRef="M001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+<DigitalPrintingParamsLink rRef="DPP002" Usage="Input"/>
+<RunListLink rRef="RunList_1" Usage="Input"/>
+<LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+<ComponentLink Amount="13" Usage="Output" rRef="Component"/>
+</ResourceLinkPool>
+</JDF>

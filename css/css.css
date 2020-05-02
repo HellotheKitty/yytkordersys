@@ -1,0 +1,26 @@
+ body{
+	font-size:9px;
+    margin:0px;
+	padding:0px;
+	text-align:center;
+	background:#FBFFFF;
+	color:#000000;
+	font-family:"����", Arial, Helvetica, sans-serif;
+}
+ .font1{color:#f8f8f8;font-size:12px;}
+ .font2{color:#666666;font-size:12px;line-height:22px;}
+ .font3{color:#000;font-size:6px;}
+ .font4{color:#000;font-size:12px;font-weight:bold;}
+ .font5{color:#000;font-size:12px;line-height:25px;}
+ .fonttitle{font-size:14px;}
+ a:link,a:visited{text-decoration:none;color:#f8f8f8;}
+ a:hover{color:#8ABED6;text-decoration:none;}
+ .more:link,.more:visited{text-decoration:none;color:#000000;}
+ .more:hover{color:#8ABED6;text-decoration:none;}
+ .textl:link,.textl:visited{text-decoration:none;color:#000000;}
+ .textl:hover{color:#8ABED6;text-decoration:underline;}
+  .text2:link,.text2:visited{text-decoration:none;color:#000000;}
+  .text2:hover{color:#8ABED6;text-decoration:none;}
+.searchtr input{
+ height:29px;
+}

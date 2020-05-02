@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>（xml头）
+<JDF Type="Combined" xmlns="http://www.CIP4.org/JDFSchema_1_1" ID="rootNodeId" Status="Waiting" JobPartID="000.cdp.797" Version="1.2" Types="DigitalPrinting LayoutPreparation Gathering" DescriptiveName="0317116030513F（JDF文件名和pdf文件名相关）">
+    <ResourcePool>
+        <Media Class="Consumable" ID="M001" Status="Available" StockType="159g-tb"（纸张种类） Dimension="907 1315"（尺寸）/>
+        <DigitalPrintingParams Class="Parameter" ID="DPP001" Status="Available"/>
+        <RunList ID="RunList_1" Status="Available"（状态可用） Class="Parameter">
+            <LayoutElement>
+                <FileSpec MimeType="application/pdf" URL="文件地址"/>
+                    //http协议测试可用
+            </LayoutElement>
+        </RunList>
+        <LayoutPreparationParams Class="Parameter" ID="LPP001" Sides="TwoSidedFlipY（双面X：翻页Y：不翻页）" Status="Available（状态可用）">
+                //还可添加属性Rotate="Rotate90"（为旋转90度）
+        </LayoutPreparationParams>
+            -----页面属性--------
+        <FeedingParams Class="Parameter" ID="FPS-DS" Status="Available"（状态可用）>
+            <Feeder FeederType="Copy"/>
+        </FeedingParams>
+        <GatheringParams ID="GP01" Class="Parameter" Status="Available"（状态可用）>
+        <SourceResource>
+            <FeedingParamsRef rRef="FPS-DS"/（传输）>
+        </SourceResource>
+        <Disjointing>
+        <InsertSheet SheetType="SeparatorSheet" SheetUsage="Trailer" SheetFormat="Standard"/>
+        </Disjointing>
+                </GatheringParams>
+        <Component ID="Component（组件）" ComponentType="FinalProduct " Status="Unavailable" Class="Quantity"> </Component>
+    </ResourcePool>
+    <ResourceLinkPool>
+        <MediaLink rRef="M001" Usage="Input"/>
+        <DigitalPrintingParamsLink rRef="DPP001" Usage="Input"/>
+        <RunListLink rRef="RunList_1" Usage="Input"/>
+        <LayoutPreparationParamsLink rRef="LPP001" Usage="Input"/>
+        <GatheringParamsLink rRef="GP01" Usage="Input"/>
+        <ComponentLink（组件连接） Amount="2"（拷贝数量） Usage="Output" rRef="Component"/>
+------打印数量--------
+    </ResourceLinkPool>
+</JDF>

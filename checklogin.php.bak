@@ -1,0 +1,27 @@
+﻿<noscript>    
+ <font color=red size="+3">对不起，你的浏览器不支持JavaScript，系统运行可能出错!请在Internet选项中的安全设置里面启用Javascript!</font> 
+</noscript>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<? require("inc/conn.php");
+session_start();
+//session_destroy();
+$user=$_POST["user"];
+$passw=$_POST["passw"];
+$sql="select * from b_ry where bh='$user' and password='$passw'";
+
+$rs = mysql_query($sql, $conn);                     //获取数据集  
+if(!$row = mysql_fetch_row($rs)){
+	mysql_free_result($rs);   
+	print "<script language=JavaScript>{window.alert('帐号和口令错误，不能登录，请检查!');window.location.href='lmiddle.php';}</script>";
+} else {
+	$_SESSION["OK"]="OK";
+	$_SESSION["USER"]=$user;
+	$_SESSION["XM"]=$row[2];
+	$_SESSION["QX"]=$row[15];
+	$_SESSION["UID"]=$row[0];
+	$_SESSION["GDWDM"]=$row[13];
+	print "<script language=JavaScript>{ parent.location.href='main.php';}</script>";
+	mysql_free_result($rs);            
+};
+
+?>
