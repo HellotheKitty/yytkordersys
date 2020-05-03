@@ -3,3 +3,9 @@
 .env
 /inc
 inc
+conn.php
+connection.php
+indextest.php
+/customer/JDF/function/conn.php
+/customer/neworder/JDF/function/conn.php
+/customer/neworder/lib/conn.php
