@@ -13,7 +13,7 @@ if (preg_match ("/^[A-Za-z]/", $user)) {
     $_tj = "xm='$user'";		//不是字母开头
 }
 //$sql="select b_ry.*,b_dwdm.ssdq from b_ry,b_dwdm where b_ry.dwdm=b_dwdm.dwdm and bh='$user' and password='$passw'";
-$sql="select b_ry.*,b_dwdm.ssdq from b_ry,b_dwdm where b_ry.dwdm=b_dwdm.dwdm and $_tj and password='$passw'";
+$sql="select b_ry.*,b_dwdm.ssdq from b_ry,b_dwdm where b_ry.dwdm=b_dwdm.dwdm and $_tj and password='$passw' and state=1";
 $rs = mysql_query($sql, $conn);                     //获取数据集
 if(!$row = mysql_fetch_assoc($rs)){
     mysql_free_result($rs);

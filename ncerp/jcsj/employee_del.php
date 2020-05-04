@@ -8,7 +8,7 @@ if($_SESSION["OK"]<>"OK"){
 }
 
 if($id = $_GET["ID"]){
-	mysql_query("update b_ry set xm = concat('离职',xm) , password = 'lizhi' where id='".$id."'",$conn);
+	mysql_query("update b_ry set xm = concat('离职',xm) , password = 'lizhi', state=2, memo=NOW() where id='".$id."'",$conn);
 }
 	$return_page = "Location:employee_list.php?pno=".$_GET["pno"];
 	header($return_page);
